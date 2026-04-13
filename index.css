@@ -114,3 +114,8 @@ p.bold {
     margin-bottom: 0px;
 }
 
+.bottom {
+    margin-top: 10px;
+    margin-bottom: 0;
+    border-bottom: solid #C6C6C6 1px;
+}
